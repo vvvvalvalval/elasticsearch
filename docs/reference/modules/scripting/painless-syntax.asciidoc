@@ -212,6 +212,8 @@ for (item : list) {
 }
 ---------------------------------------------------------
 
+Note that the use of https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html[Java labels] in for loops is not supported.
+
 [float]
 [[painless-functions]]
 === Functions
